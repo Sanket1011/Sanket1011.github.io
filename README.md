@@ -18,8 +18,8 @@ This portfolio is built using:
 ---
 
 ## 💼 Experience Highlight
-**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute
-**Instructor & Data Insights Developer** @ ITech Computer Education 
+**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute <br>
+**Instructor & Data Insights Developer** @ ITech Computer Education <br>
 **Web Developer & Database Engineer** @ Xento Systems (Entrata)
 ---
 
