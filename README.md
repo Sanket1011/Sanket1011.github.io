@@ -1,6 +1,6 @@
 # Sanket Ruia | Data & Software Portfolio
 
-![Profile Photo](image_0.png)
+![Profile Photo](profile.png)
 
 ## 🚀 About Me
 Welcome to my personal portfolio repository! I am a **Data Scientist and Software Engineer** with experience in transforming complex datasets into actionable business strategies. 
