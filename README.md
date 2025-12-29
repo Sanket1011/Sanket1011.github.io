@@ -18,29 +18,28 @@ This portfolio is built using:
 ---
 
 ## 💼 Experience Highlight
-**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute [cite: 3]
-**Instructor & Data Insights Developer** @ ITech Computer Education [cite: 3]
-**Web Developer & Database Engineer** @ Xento Systems (Entrata) [cite: 3]
-
+**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute
+**Instructor & Data Insights Developer** @ ITech Computer Education 
+**Web Developer & Database Engineer** @ Xento Systems (Entrata)
 ---
 
 ## 📊 Featured Projects
 1.  **Calgary Transit Ridership Dashboard:**
-    *Tools:* Power BI, DAX, Data Modeling [cite: 3]
-    *Impact:* Visualized KPIs and historical trends to aid service planning. [cite: 4]
+    *Tools:* Power BI, DAX, Data Modeling 
+    *Impact:* Visualized KPIs and historical trends to aid service planning.
     
 2.  **Canadian Real Estate Analysis:**
-    *Tools:* Python (Pandas, NumPy) [cite: 3]
-    *Impact:* Conducted a 20-year trend analysis and time-series forecasting. [cite: 6]
+    *Tools:* Python (Pandas, NumPy) 
+    *Impact:* Conducted a 20-year trend analysis and time-series forecasting.
 
 3.  **Productivity Survey Insights:**
-    *Tools:* Power BI, Python [cite: 3]
-    *Impact:* Analyzed remote work trends and factors impacting employee productivity. [cite: 3]
+    *Tools:* Power BI, Python 
+    *Impact:* Analyzed remote work trends and factors impacting employee productivity. 
 
 ---
 
 ## 📫 Contact
 Feel free to reach out for collaboration or job opportunities!
 
-**LinkedIn:** [Sanket Ruia](https://www.linkedin.com/in/sanket-ruia) [cite: 2]
-**Email:** [sanketruia34@gmail.com](mailto:sanketruia34@gmail.com) [cite: 2]
+**LinkedIn:** [Sanket Ruia](https://www.linkedin.com/in/sanket-ruia) 
+**Email:** [sanketruia34@gmail.com](mailto:sanketruia34@gmail.com) 
