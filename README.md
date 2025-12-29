@@ -18,32 +18,29 @@ This portfolio is built using:
 ---
 
 ## 💼 Experience Highlight
-* [cite_start]**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute [cite: 3]
-* [cite_start]**Instructor & Data Insights Developer** @ ITech Computer Education [cite: 3]
-* [cite_start]**Web Developer & Database Engineer** @ Xento Systems (Entrata) [cite: 3]
+**Software Consultant & Data Mentor** @ G-TEC Jain Keerti Computer Institute [cite: 3]
+**Instructor & Data Insights Developer** @ ITech Computer Education [cite: 3]
+**Web Developer & Database Engineer** @ Xento Systems (Entrata) [cite: 3]
 
 ---
 
 ## 📊 Featured Projects
 1.  **Calgary Transit Ridership Dashboard:**
-    * [cite_start]*Tools:* Power BI, DAX, Data Modeling [cite: 3]
-    * [cite_start]*Impact:* Visualized KPIs and historical trends to aid service planning. [cite: 4]
+    *Tools:* Power BI, DAX, Data Modeling [cite: 3]
+    *Impact:* Visualized KPIs and historical trends to aid service planning. [cite: 4]
     
 2.  **Canadian Real Estate Analysis:**
-    * [cite_start]*Tools:* Python (Pandas, NumPy) [cite: 3]
-    * [cite_start]*Impact:* Conducted a 20-year trend analysis and time-series forecasting. [cite: 6]
+    *Tools:* Python (Pandas, NumPy) [cite: 3]
+    *Impact:* Conducted a 20-year trend analysis and time-series forecasting. [cite: 6]
 
 3.  **Productivity Survey Insights:**
-    * [cite_start]*Tools:* Power BI, Python [cite: 3]
-    * [cite_start]*Impact:* Analyzed remote work trends and factors impacting employee productivity. [cite: 3]
+    *Tools:* Power BI, Python [cite: 3]
+    *Impact:* Analyzed remote work trends and factors impacting employee productivity. [cite: 3]
 
 ---
 
 ## 📫 Contact
 Feel free to reach out for collaboration or job opportunities!
 
-* [cite_start]**LinkedIn:** [Sanket Ruia](https://www.linkedin.com/in/sanket-ruia) [cite: 2]
-* [cite_start]**Email:** [sanketruia34@gmail.com](mailto:sanketruia34@gmail.com) [cite: 2]
-
----
-*© 2025 Sanket Ruia. Hosted on GitHub Pages.*
+**LinkedIn:** [Sanket Ruia](https://www.linkedin.com/in/sanket-ruia) [cite: 2]
+**Email:** [sanketruia34@gmail.com](mailto:sanketruia34@gmail.com) [cite: 2]
